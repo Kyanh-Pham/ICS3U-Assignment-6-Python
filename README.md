@@ -1,3 +1,3 @@
 # ICS3U-Assignment-6-Python
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Kyanh-Pham/ICS3U-Assignment-6-Python/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Kyanh-Pham/ICS3U-Assignment-6-Python/actions/)
