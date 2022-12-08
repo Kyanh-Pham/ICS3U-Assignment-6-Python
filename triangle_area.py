@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Kyanh Pham
 # Created on: Nov 2022
-# The program finds the area of a triangle
+# This program finds the area of a triangle
 
 
 def calculate_triangle_area(base: int, height: int) -> float:
